@@ -1,0 +1,9 @@
+target/
+.DS_Store
+.idea/
+.iml
+src/main/scala/clustering/ClustreamM.scala
+src/main/scala/le/ClustreamMExample.scala
+src/main/scala/le/StreamTest.scala
+src/main/scala/le/TestMapWithState.scala
+result/
